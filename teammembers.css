@@ -1,0 +1,279 @@
+body{
+    background-image: url('resumebg.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+
+}
+
+.header{
+    position: relative;
+    left: 90vh;
+    top: 7vh;
+    font-family:fantasy ;
+    font-weight: 900;
+    font-size: xx-large;
+    align-items: center;
+    justify-content: center;
+}
+
+.links{
+    background-color: #09233d;
+    height: 13vh;
+    right: 1.3vh;
+    width: 211.9vh;
+    position:relative;
+    bottom: 10vh;
+    color: #ffffff;
+    
+}
+
+.HOME{
+    position: relative;
+    left: 113vh;
+    top: 5.28vh;
+    color: white;
+}
+
+.ABOUT{
+    position: relative;
+    left: 127vh;
+    bottom: 0.4vh;
+    color: white;
+}
+
+
+.TESTIMONIALS{
+    position: relative;
+    left: 142vh;
+    bottom: 5.8vh;
+
+    color: white;
+}
+
+.PRICING{
+  position: relative;
+    left: 180vh;
+    bottom: 11.3vh;
+    
+    color: white;
+}
+.CONTACT{
+    position: relative;
+    left: 194vh;
+    bottom: 16.8vh;
+    
+    color: white;
+}
+.SOCIAL{
+    position: relative;
+    left: 166vh;
+    bottom: 22.3vh;
+    
+    color: white;
+}
+
+
+
+.HOME:hover {
+    color: crimson;
+}
+
+.ABOUT:hover{
+    color: crimson;
+}
+
+.TESTIMONIALS:hover{
+    color: crimson;
+}
+.SOCIAL:hover{
+    color: crimson;
+}
+
+.PRICING:hover{
+    color: crimson;
+}
+
+.CONTACT:hover{
+    color: crimson;
+}
+
+.aboutteam{
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: x-large;
+    position: relative;
+    top: 50vh;
+    right: 1.5vh;
+    background-color: #09233d;
+    height: 10vh;
+    width: 212vh;
+    color: white;
+}
+#abouttxt{
+    position: relative;
+    bottom: 1.8vh;
+}
+
+.leftbox{
+    border-radius: 0px;
+background: #ffffff;
+box-shadow:  5px 5px 0px #ffffff,
+             -5px -5px 0px #ffffff;
+position: relative;
+top: 55.7vh;
+left: 5vh;
+height: 50vh;
+width: 35vh;
+background-color: paleturquoise;
+padding: 20px;
+
+}
+
+.midbox{
+    border-radius: 0px;
+background: #fdfbff;
+box-shadow:  5px 5px 0px #ffffff,
+             -5px -5px 0px #ffffff;
+    position: relative;
+    top: 2.5vh; 
+    left: 60vh;
+    height: 50vh;
+    width: 35vh;
+    background-color: paleturquoise;
+    padding: 20px;
+
+}
+
+.rightbox{
+    border-radius: 0px;
+background: #ffffff;
+box-shadow:  5px 5px 0px #ffffff,
+             -5px -5px 0px #ffffff;
+    position: relative;
+    left: 115vh;
+    bottom: 50.8vh;
+    height: 50vh;
+    width: 35vh;
+    background-color: paleturquoise;
+    padding: 20px;
+
+}
+
+.righterbox{
+    border-radius: 0px;
+background: #ffffff;
+box-shadow:  5px 5px 0px #ffffff,
+             -5px -5px 0px #ffffff;
+    position: relative;
+    left: 170vh;
+    bottom: 104vh;
+    height: 50vh;
+    width: 35vh;
+    background-color: paleturquoise;
+    padding: 20px;
+
+}
+
+
+
+#header1{
+    position: relative;
+    left: 2vh;
+    top: 3vh;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+}
+
+#header1txt{
+    position: relative;
+    left: 1.4vh;
+    top: 3vh;
+    font-size:large;
+    font-weight: 100;
+}
+
+#header2{
+    position: relative;
+    left: 2vh;
+    top: 3vh;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+}
+#header2txt{
+    position: relative;
+    left: 1.4vh;
+    top: 3vh;
+    font-size:large;
+    
+}
+
+#header3{
+    position: relative;
+    left: 2vh;
+    top: 3vh;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+}
+#header3txt{
+    position: relative;
+    left: 1.4vh;
+    top: 3vh;
+    font-size:large;
+}
+#header4{
+    position: relative;
+    left: 2vh;
+    top: 3vh;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+}
+#header4txt{
+    position: relative;
+    left: 1.4vh;
+    top: 3vh;
+    font-size:large;
+}
+#header5{
+    position: relative;
+    left: 2vh;
+    top: 3vh;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+}
+#header6{
+    position: relative;
+    left: 2vh;
+    top: 3vh;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+}
+.foot{
+    border-radius: 0px;
+background: #09233d;
+box-shadow:  5px 5px 0px #4a484f,
+             -5px -5px 0px #ffffff;
+
+position: relative;
+bottom: 100vh;
+height: 7vh;
+
+}
+
+#foottxt{
+    position: relative;
+    top: 2vh;
+    left: 2vh;
+    color: white;
+}
+
+.logo{
+    color: white;
+    position:relative;
+    bottom: 20vh;
+    left: 25vh;
+    height: 100px;
+    width: 100px;
+}
